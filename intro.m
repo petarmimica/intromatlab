@@ -279,7 +279,7 @@ end
 a
 b
 
-% exemple: imprimir una tabla usant el bucle for
+% exemple: imprimir una taula usant el bucle for
 fprintf('%3s | %3s || %3s\n', 'A', 'B', 'A+B');
 fprintf('----------------\n');
 A = 3; B = 8;
